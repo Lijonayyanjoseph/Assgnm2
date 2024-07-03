@@ -2,7 +2,11 @@
 <html>
 
 <head>
+<<<<<<< HEAD
      <title>HTML Application changes 2</title>
+=======
+     <title>HTML Applicationsss</title>
+>>>>>>> 62874394c78d92962492f1c10e2eecae080efbd0
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
